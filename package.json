@@ -1,0 +1,25 @@
+{
+  "name": "appeal-",
+  "version": "1.0.0",
+  "description": "Online Student Failed course Appeal System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "devStart": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Makanta-Luckson/Appeal-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Makanta-Luckson/Appeal-/issues"
+  },
+  "homepage": "https://github.com/Makanta-Luckson/Appeal-#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
